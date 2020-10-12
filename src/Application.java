@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Scanner;
-
+import java.util.*;
 public class Application
 {	
 	static ArrayList<Product> allProducts = new ArrayList<Product>();
