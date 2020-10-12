@@ -2,13 +2,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Scanner;
-
+import java.util.*;
 public class Application
 {	
 	static ArrayList<Product> allProducts = new ArrayList<Product>();
 	static ArrayList<Warehouse> allWarehouse = new ArrayList<Warehouse>();
 	//allProducts.add(new Product("1","LG 8kg Washing Machine","LG","Washing Machine",45000));
-	
+	//Added a comment line
 	static Scanner sc = new Scanner(System.in);
 	static Iterator<Product> itr = allProducts.iterator();
 	public static void addProduct()
