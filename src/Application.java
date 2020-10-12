@@ -3,6 +3,7 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Scanner;
 import java.util.*;
+//trying again
 public class Application
 {	
 	static ArrayList<Product> allProducts = new ArrayList<Product>();
